@@ -1,0 +1,7 @@
+S=input();
+a=[];
+if(S[1]=="push") then a 에 숫자 삽입;
+elif(S[1]=="pop") then a 마지막 삭제 출력;
+elif(S[1]=="size") then a 크기 출력;
+elif(S[1]=="empty") then 비었으면1 아니면 0;
+else then 가장 위 출력;
